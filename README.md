@@ -1,7 +1,7 @@
 # Lab 01
 
 ## Ambiente de densevolvimento
-   - Estou utilizando ubuntu 22.04 LTS e Virtualbox como Hipervisor.
+   - Estou utilizando Vagrant da Hashcorp, Ubuntu 22.04 LTS e Virtualbox como Hipervisor.
 
 ## DIRETÓRIOS:
     /publico
